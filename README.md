@@ -1,6 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# Headspring JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+*A mostly reasonable approach to JavaScript, forked and slightly modified from [Airbnb's excellent JavaScript style guide](https://github.com/airbnb/javascript)*
 
 
 ## Table of Contents
