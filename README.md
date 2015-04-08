@@ -1,8 +1,6 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Headspring JavaScript Style Guide() {
 
-# Airbnb JavaScript Style Guide() {
-
-*A mostly reasonable approach to JavaScript*
+*A mostly reasonable approach to JavaScript, forked and slightly modified from [Airbnb's excellent JavaScript style guide](https://github.com/airbnb/javascript)*
 
 
 ## Table of Contents
